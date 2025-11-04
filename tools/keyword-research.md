@@ -1,4 +1,4 @@
-## 🔑 Keyword Research Tools
+# 🔑 Keyword Research Tools
 
 Find profitable, intent-based keywords for SEO, PPC, and content strategy.
 
